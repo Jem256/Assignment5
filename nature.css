@@ -1,0 +1,42 @@
+body{
+    background-image: url("pawel-czerwinski-QY9LOl9eZ9w-unsplash.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat; 
+}
+.banner{
+    width: 300px;
+    height: 200px;
+    margin-top: 0px;
+    padding-top: 0%;
+}
+#one{
+    opacity: 40%;
+    color: darkmagenta;
+}
+#two{
+    opacity: 40%;
+    color: darkorchid;
+}
+#three{
+    opacity: 40%;
+    color: darkolivegreen;
+}
+#four{
+    opacity: 40%;
+    color: darkred;
+}
+#five{
+    opacity: 40%;
+    color: rebeccapurple;
+}
+#six{
+    opacity: 40%;
+    color: black;
+}
+#seven {
+    color: darkblue;
+}
+h1{
+    color: black;
+}
